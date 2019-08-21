@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 apps=(
-    dash
     dropbox
     firefox
     flux
@@ -9,7 +8,6 @@ apps=(
     google-drive
     iterm2
     spotify
-    sublime-text3
     vlc
     virtualbox
 )
