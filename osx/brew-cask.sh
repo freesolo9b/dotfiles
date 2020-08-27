@@ -1,15 +1,22 @@
 #!/usr/bin/env bash
 
 apps=(
+    anki
+    discord
     dropbox
+    evernote
     firefox
     flux
     google-chrome
     google-drive
     iterm2
+    karabiner-elements
+    signal
+    slack
     spotify
-    vlc
     virtualbox
+    visual-studio-code
+    vlc
 )
 
 brew cask install "${apps[@]}"
