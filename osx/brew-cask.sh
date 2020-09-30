@@ -11,9 +11,11 @@ apps=(
     google-chrome
     iterm2
     karabiner-elements
+    mendeley
     signal
     slack
     spotify
+    private-internet-access
     visual-studio-code
     vlc
     whatsapp
